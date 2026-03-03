@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-kaiky%20dias%20belgoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/kaikybelgoni">
-    <img src="https://img.shields.io/badge/GitHub-kaikybelgoni-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/SaB3Rs">
+    <img src="https://img.shields.io/badge/GitHub-SaB3Rs-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
