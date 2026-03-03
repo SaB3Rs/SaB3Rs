@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaiky Belgoni</h1>
 
-<!--
-**SaB3Rs/SaB3Rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Software Engineering Student • 🚀 Backend Developer in Progress • 🇧🇷 Brazil
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 Building solid foundations in programming and problem-solving.<br>
+💻 Developing skills in Java, Python and Web technologies.<br>
+🚀 Focused on growing into a backend developer.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kaiky-dias-belgoni-223943266/">
+    <img src="https://img.shields.io/badge/LinkedIn-kaiky%20dias%20belgoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/kaikybelgoni">
+    <img src="https://img.shields.io/badge/GitHub-kaikybelgoni-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+
+## 📚 Currently Studying
+
+- Data Structures  
+- Object-Oriented Programming  
+- Backend Development  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaikybelgoni&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikybelgoni&layout=compact&theme=tokyonight" />
+</p>
